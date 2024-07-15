@@ -7,7 +7,11 @@
 		"visible" 				"1"
 		"enabled" 				"1"
 		"xpos"					"5"
+<<<<<<< HEAD
 		"ypos"					"200"
+=======
+		"ypos"					"190"
+>>>>>>> bb5b40f (personal hud changes)
 		"wide"					"300"
 		"tall"					"150"
 		"PaintBackgroundType"	"0"
@@ -22,7 +26,7 @@
 		"enabled"				"1"
 		"xpos"					"10"
 		"ypos"					"395"
-		"wide"					"195"
+		"wide"					"245"
 		"tall"					"0"
 		"PaintBackgroundType"	"0"
 	}
@@ -31,8 +35,8 @@
 	{
 		"ControlName"			"Button"
 		"fieldName"				"ChatFiltersButton"
-		"xpos"					"210"
-		"ypos"					"86"
+		"xpos"					"260"
+		"ypos"					"135"
 		"wide"					"33"
 		"tall"					"8"
 		"autoResize"			"1"
@@ -53,7 +57,7 @@
 		"fieldName"				"HudChatHistory"
 		"xpos"					"0"
 		"ypos"					"0"
-		"wide"					"250"
+		"wide"					"300"
 		"tall"					"75"
 		"wrap"					"1"
 		"autoResize"			"1"
