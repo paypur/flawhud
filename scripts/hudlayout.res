@@ -87,10 +87,10 @@
 		"fieldName"			"HudMedicCharge"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"0"
-		"ypos"				"0"
-		"wide"				"f0"
-		"tall"				"f0"
+		"xpos"				"c-55"
+		"ypos"				"r127"
+		"wide"				"150"
+		"tall"				"60"
 	}
 
 	"HudDemomanCharge"
@@ -677,15 +677,15 @@
 		"tall"				"480"
 	}
 
-	"HudScopeCharge"
+	HudScopeCharge
 	{
-		"fieldName"			"HudScopeCharge"
-		"visible"			"1"
-		"enabled"			"1"
-		"xpos"				"c64"
-		"ypos"				"c-64"
-		"wide"				"64"
-		"tall"	 			"128"
+		"fieldName"         "HudScopeCharge"
+		"visible"           "1"
+		"enabled"           "1"
+		"xpos"	            "c64"
+		"ypos"	            "c-256"
+		"wide"	            "256"
+		"tall"	            "512"
 	}
 
 	"HudVoiceSelfStatus"
