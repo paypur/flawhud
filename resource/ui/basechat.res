@@ -7,7 +7,11 @@
 		"visible" 				"1"
 		"enabled" 				"1"
 		"xpos"					"5"
+<<<<<<< HEAD
 		"ypos"					"200"
+=======
+		"ypos"					"190"
+>>>>>>> bb5b40f (personal hud changes)
 		"wide"					"300"
 		"tall"					"150"
 		"PaintBackgroundType"	"0"
