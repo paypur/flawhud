@@ -55,7 +55,7 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"43"
-		"visible"		"1"		//Change to "0" to enable health cross
+		"visible"		"0"		//Change to "0" to enable health cross
 		"enabled"		"1"
 		"bgcolor_override"		"BGBlack"
 		"PaintBackgroundType"	"2"
