@@ -512,6 +512,10 @@
 		"wide"				"150"
 		"tall"				"200"
 		"fov"				"23"
+		"autoResize"		"0"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
 		"allow_rot"			"1"
 		"render_texture"	"0"
 
@@ -519,10 +523,10 @@
 		{
 			"force_pos"			"1"
 			"angles_x" 			"0"
-			"angles_y" 			"165"
+			"angles_y" 			"200"
 			"angles_z" 			"0"
 			"origin_x" 			"200"
-			"origin_y" 			"0"
+			"origin_y" 			"-4"
 			"origin_z" 			"-80"
 			"frame_origin_x"	"0"
 			"frame_origin_y"	"0"
