@@ -7,9 +7,9 @@
 		"visible" 				"1"
 		"enabled" 				"1"
 		"xpos"					"5"
-		"ypos"					"20"
-		"wide"					"250"
-		"tall"					"100"
+		"ypos"					"200"
+		"wide"					"300"
+		"tall"					"150"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"		"0 0 0 255"
 	}
