@@ -1,4 +1,4 @@
-"Resource\UI\TFAdvancedOptionsDialog.res"
+"resource/ui/tfadvancedoptionsdialog.res"
 {
 	"TFAdvancedOptionsDialog"
 	{
@@ -84,7 +84,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"#GameUI_Ok"
+		"labelText"			"#TF_OK"
 		"font"				"FontBold16"
 		"textAlignment"		"center"
 		"dulltext"			"0"

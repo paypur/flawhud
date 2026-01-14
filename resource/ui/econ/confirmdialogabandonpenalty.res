@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmDialogAbandonPenalty.res"
+"resource/ui/confirmdialogabandonpenalty.res"
 {
 	"ConfirmDialog"
 	{
@@ -86,7 +86,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#GameUI_CancelBold"
+		"labelText"				"#Cancel"
 		"font"					"FontBold14"
 		"textAlignment"			"center"
 		"textinsetx"			"50"

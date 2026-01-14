@@ -1,4 +1,4 @@
-"Resource/UI/HudMatchStatus.res"
+"resource/ui/hudmatchstatus.res"
 {
 	"HudMatchStatus"
 	{
@@ -357,7 +357,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"Left"
+				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"bgcolor_override"		"80 80 80 255"
@@ -377,7 +377,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"Left"
+				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"bgcolor_override"		"0 0 0 0"

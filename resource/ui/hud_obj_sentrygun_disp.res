@@ -1,4 +1,4 @@
-"Resource/UI/hud_obj_sentrygun_disp.res"
+"resource/ui/hud_obj_sentrygun_disp.res"
 {
 	"BuildingStatusItem"
 	{
@@ -121,7 +121,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"	"Left"
+			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
@@ -150,7 +150,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"labelText"		"#Building_hud_building"
-				"textAlignment"	"Left"
+				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
 			}
@@ -168,7 +168,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"textAlignment"	"Left"
+				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
 			}
@@ -249,7 +249,7 @@
 				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
-				"textAlignment"	"Left"
+				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"
 			}

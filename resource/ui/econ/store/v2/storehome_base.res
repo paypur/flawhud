@@ -1,4 +1,4 @@
-"Resource/UI/StoreHome_Base.res"
+"resource/ui/storehome_base.res"
 {
 	"StorePage"
 	{
@@ -524,7 +524,7 @@
 		"TauntLabel"
 		{
 			"ControlName"	"CExLabel"
-			"fieldName"		"CaseLabel"
+			"fieldName"		"TauntLabel"
 			"font"			"HudFontMediumBold"
 			"labelText"		"#Store_Taunt_Label"
 			"textAlignment"	"west"

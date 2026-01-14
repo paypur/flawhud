@@ -1,4 +1,4 @@
-"Resource/SteamWorkshopDialog.res"
+"resource/steamworkshopdialog.res"
 {
 	"SteamWorkshopDialog"
 	{
@@ -119,7 +119,7 @@
 			"DescLabel"
 			{
 				"ControlName"	"CExLabel"
-				"fieldName"		"TitleLabel"
+				"fieldName"		"DescLabel"
 				"font"			"HudFontSmall"
 				"labelText"		"#TF_SteamWorkshop_Desc"
 				"textAlignment"	"north"

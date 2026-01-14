@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmDialog.res"
+"resource/ui/confirmdialog.res"
 {
 	"ConfirmDialog"
 	{
@@ -73,7 +73,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#GameUI_CancelBold"
+		"labelText"				"#Cancel"
 		"font"					"FontBold14"
 		"textAlignment"			"center"
 		"textinsetx"			"50"

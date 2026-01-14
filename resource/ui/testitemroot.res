@@ -1,4 +1,4 @@
-"Resource/UI/TestItemRoot.res"
+"resource/ui/testitemroot.res"
 {
 	"TestItemRoot"
 	{
@@ -689,7 +689,7 @@
 		"BotsOnBlueTeamCheckBox"
 		{
 			"ControlName"	"CheckButton"
-			"fieldName"		"AutoAddBotsCheckBox"
+			"fieldName"		"BotsOnBlueTeamCheckBox"
 			"labelText"		"#IT_Bot_BlueTeam"
 			"Font"			"ItemFontAttribSmall"
 			"textAlignment"	"west"

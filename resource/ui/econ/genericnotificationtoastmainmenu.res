@@ -1,11 +1,11 @@
-#base "GenericNotificationToast.res"
+#base "genericnotificationtoast.res"
 
-"Resource/UI/GenericNotificationToastMainMenu.res"
+"resource/ui/genericnotificationtoastmainmenu.res"
 {
-    "TextLabel"
-    {
-		"wide"			"138"
-		"tall"			"38"
-		"font"			"FontRegular12"
-    }
+  "TextLabel"
+  {
+    "wide"			"138"
+    "tall"			"38"
+    "font"			"FontRegular12"
+  }
 }

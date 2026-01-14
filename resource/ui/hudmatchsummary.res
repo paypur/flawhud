@@ -1,4 +1,4 @@
-"Resource/UI/HudMatchSummary.res"
+"resource/ui/hudmatchsummary.res"
 {
 	"MatchSummary"
 	{
@@ -181,7 +181,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"StatsAndMedals"
 				"font"			"MatchSummaryStatsAndMedals"
-				"labelText"		"#TF_StatsAndMedals"
+				"labelText"		"#TF_CompSummary_StatsAndMedals"
 				"textAlignment"	"center"
 				"xpos"			"0"
 				"ypos"			"0"
@@ -199,7 +199,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"StatsAndMedalsShadow"
 				"font"			"MatchSummaryStatsAndMedals"
-				"labelText"		"#TF_StatsAndMedals"
+				"labelText"		"#TF_CompSummary_StatsAndMedals"
 				"fgcolor"		"Black"
 				"textAlignment"	"center"
 				"xpos"			"-1"

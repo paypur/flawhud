@@ -1,6 +1,6 @@
-#base "TeamMenu.res"
+#base "teammenu.res"
 
-"Resource/UI/TeamMenu.res"
+"resource/ui/teammenu.res"
 {
 	"JoinBluHintIcon"
 	{
@@ -131,7 +131,7 @@
 		"pinCorner"		"2"
 		"visible"		"0"
 		"enabled"		"1"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"

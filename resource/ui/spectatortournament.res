@@ -1,6 +1,6 @@
 #base "hudinspectpanel.res"
 
-"Resource/UI/SpectatorTournament.res"
+"resource/ui/spectatortournament.res"
 {
 	"specgui"
 	{
@@ -299,7 +299,7 @@
 	"topbar"
 	{
 		"ControlName"	"Panel"
-		"fieldName"		"TopBar"
+		"fieldName"		"topbar"
 		"visible"		"0"
 		"tall"			"0"
 	}

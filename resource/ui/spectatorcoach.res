@@ -1,4 +1,4 @@
-"Resource/UI/SpectatorCoach.res"
+"resource/ui/spectatorcoach.res"
 {
 	"Spectator"
 	{
@@ -17,7 +17,7 @@
 	"topbar"
 	{
 		"ControlName"		"Panel"
-		"fieldName"			"TopBar"
+		"fieldName"			"topbar"
 		"xpos"				"0"
 		"ypos"				"0"
 		"tall"				"70"

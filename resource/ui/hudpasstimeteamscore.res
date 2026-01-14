@@ -1,9 +1,9 @@
-"Resource/UI/HudPasstimeTeamScore.res"
+"resource/ui/hudpasstimeteamscore.res"
 {
 	"HudTeamScore"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName"			"HudPasstimeTeamScore"
+		"fieldName"			"HudTeamScore"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"0"

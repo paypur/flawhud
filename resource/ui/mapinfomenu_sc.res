@@ -1,6 +1,6 @@
-#base "MapInfoMenu.res"
+#base "mapinfomenu.res"
 
-"Resource/UI/MapInfoMenu_sc.res"
+"resource/ui/mapinfomenu_sc.res"
 {
 	"MapInfoContinueHintIcon" [$WIN32]
 	{
@@ -15,7 +15,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -37,7 +37,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"Y"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"
@@ -58,7 +58,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"

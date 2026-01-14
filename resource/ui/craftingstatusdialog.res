@@ -1,4 +1,4 @@
-"Resource/UI/CraftingStatusDialog.res"
+"resource/ui/craftingstatusdialog.res"
 {
 	"CraftingStatusDialog"
 	{
@@ -108,7 +108,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#GameUI_Ok"
+		"labelText"				"#TF_OK"
 		"font"					"FontBold14"
 		"textAlignment"			"center"
 		"dulltext"				"0"

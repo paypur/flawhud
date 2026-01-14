@@ -1,8 +1,8 @@
-#base "../../resource/preload.res"
-#base "../../resource/tools.res"
-#base "../../resource/links.res"
+#base "../preload.res"
+#base "../links.res"
+#base "customizations/#customization_menu/hud_customization.res"
 
-"Resource/UI/MainMenuOverride.res"
+"resource/ui/mainmenuoverride.res"
 {
 	"MainMenuOverride"
 	{
@@ -219,7 +219,7 @@
 		"tall"			"64"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../vgui/replay/thumbnails/main_menu_logo"
+		"image"			"replay/thumbnails/main_menu/main_menu_logo"
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 	}
@@ -264,7 +264,7 @@
 		"fieldName"		"CycleRankTypeButton"
 		"xpos"			"-2"
 		"ypos"			"0"
-		"wide"			"15"
+		"wide"			"20"
 		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"3"
@@ -360,19 +360,19 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"NoGCImage"
 		"xpos"			"5"
-		"ypos"			"0"
+		"ypos"			"-3"
 		"zpos"			"5"
-		"wide"			"34"
-		"tall"			"46"
+		"wide"			"45"
+		"tall"			"45"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay\thumbnails\nogc"
+		"image"			"replay/thumbnails/main_menu/nogc"
 		"scaleImage"	"1"
 		"proportionaltoparent" "1"
 
 		"pin_to_sibling"			"NoGCMessage"
-		"pin_corner_to_sibling" 	"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
+		"pin_corner_to_sibling" 	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner" 	"PIN_BOTTOMRIGHT"
 	}
 
 	"RankBorder"
@@ -448,7 +448,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"Notifications_ShowButtonPanel"
 		"xpos"				"-10"
-		"ypos"				"0"
+		"ypos"				"5"
 		"zpos"				"0"
 		"wide"				"20"
 		"tall"				"20"
@@ -1091,7 +1091,7 @@
 			"enabled"			"1"
 			"tabPosition"		"0"
 			"labeltext"			"("
-			"font"				"MediumIcons"
+			"font"				"MediumSmallIcons"
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
@@ -1289,7 +1289,7 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"VersionLabel"
 		"font"				"FontRegular12"
-		"labelText"			"FlawHUD v2025.0802"
+		"labelText"			"FlawHUD v2026.0110"
 		"labelText_minmode"	"#FH_streamer_mode_active"
 		"xpos"				"rs1-5"
 		"ypos"				"r13"
@@ -2029,7 +2029,6 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"image"			"glyph_options"
-			"scaleImage"	"1"
 		}
 	}
 

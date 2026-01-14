@@ -1,4 +1,4 @@
-"Resource/UI/econ/StrangeCountTransferDialog.res"
+"resource/ui/econ/strangecounttransferdialog.res"
 {
 	"CollectionCraftingPanel"
 	{
@@ -36,7 +36,7 @@
 
 		"ItemContainerKV"
 		{
-			"fieldName"		"ItemContainer"
+			"fieldName"		"ItemContainerKV"
 			"xpos"			"p0.08"
 			"ypos"			"p0.245"
 			"zpos"			"1"

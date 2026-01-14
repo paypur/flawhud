@@ -1,10 +1,10 @@
 #base "huditemeffectmeter.res"
 
-"Resource/UI/HudItemEffectMeter.res"
+"resource/ui/huditemeffectmeter.res"
 {
 	"HudItemEffectMeter"
 	{
-                "xpos"				"c-250"
+		"xpos"				"c-250"
 		"ypos"				"c155"
 	}
 }

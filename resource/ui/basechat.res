@@ -1,4 +1,4 @@
-"Resource/UI/BaseChat.res"
+"resource/ui/basechat.res"
 {
 	"HudChat"
 	{
@@ -18,7 +18,7 @@
 		"bgcolor_override"		"0 0 0 255"
 	}
 
-	ChatInputLine
+	"ChatInputLine"
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"ChatInputLine"

@@ -1,4 +1,4 @@
-"Resource/UI/HudTournament.res"
+"resource/ui/hudtournament.res"
 {
 	HudTournament
 	{
@@ -130,17 +130,17 @@
 
 				if_mvm
 				{
-					"image"		"../vgui/hud_connecting"
+					"image"		"hud_connecting"
 				}
 
 				if_competitive
 				{
-					"image"		"../vgui/hud_connecting"
+					"image"		"hud_connecting"
 				}
 
 				if_readymode
 				{
-					"image"		"../vgui/hud_connecting"
+					"image"		"hud_connecting"
 				}
 			}
 

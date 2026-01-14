@@ -1,4 +1,4 @@
-"Resource/UI/QuestNotificationPanel_base.res"
+"resource/ui/questnotificationpanel_base.res"
 {
 	"QuestNotificationPanel"
 	{
@@ -24,7 +24,7 @@
 			"visible"				"1"
 			"proportionaltoparent"	"1"
 			"border"				"NoBorder"	//QuestStatusBorder
-			"paintborder"			"2"
+			"paintborder"			"1"
 
 			"ItemName"
 			{

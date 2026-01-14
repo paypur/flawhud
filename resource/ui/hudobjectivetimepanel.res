@@ -1,4 +1,4 @@
-"Resource/UI/HudObjectiveTimePanel.res"
+"resource/ui/hudobjectivetimepanel.res"
 {
 	"TimePanelBG"
 	{
@@ -119,7 +119,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ServerTimeLimitLabel"
-		"xpos"				"9999"
+		"xpos"				"0"
 		"ypos"				"25"
 		"zpos"				"15"
 		"wide"				"80"

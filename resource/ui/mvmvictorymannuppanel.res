@@ -1,4 +1,4 @@
-"Resource/UI/MvMVictoryMannUpPanel.res"
+"resource/ui/mvmvictorymannuppanel.res"
 {
 	// Mouse over panel
 	"mouseoveritempanel"
@@ -284,7 +284,7 @@
 			"NoItemServerHeader"
 			{
 				"ControlName"		"CExLabel"
-				"fieldName"			"NoItemServer"
+				"fieldName"			"NoItemServerHeader"
 				"font"				"HudFontMediumSmallBold"
 				"labelText"			"#TF_PVE_Server_GCDownHeader"
 				"textAlignment" 	"center"
@@ -297,7 +297,7 @@
 			"NoItemServerMessage"
 			{
 				"ControlName"		"CExLabel"
-				"fieldName"			"NoItemServer"
+				"fieldName"			"NoItemServerMessage"
 				"font"				"HudFontSmall"
 				"labelText"			"#TF_PVE_Server_GCDownMessage"
 				"textAlignment" 	"center"

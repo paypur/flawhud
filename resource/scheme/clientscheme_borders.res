@@ -119,83 +119,6 @@ Scheme
 				}
 			}
 		}
-
-		GreenBorderThick
-		{
-			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "ComfigGreen"
-					"offset" "0 0"
-				}
-				"2"
-				{
-					"color" "ComfigGreen"
-					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "ComfigGreen"
-					"offset" "2 0"
-				}
-			}
-			Right
-			{
-				"1"
-				{
-					"color" "ComfigGreen"
-					"offset" "0 0"
-				}
-				"2"
-				{
-					"color" "ComfigGreen"
-					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "ComfigGreen"
-					"offset" "2 0"
-				}
-			}
-			Top
-			{
-				"1"
-				{
-					"color" "ComfigGreen"
-					"offset" "0 0"
-				}
-				"2"
-				{
-					"color" "ComfigGreen"
-					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "ComfigGreen"
-					"offset" "2 0"
-				}
-			}
-			Bottom
-			{
-				"1"
-				{
-					"color" "ComfigGreen"
-					"offset" "0 0"
-				}
-				"2"
-				{
-					"color" "ComfigGreen"
-					"offset" "1 0"
-				}
-				"3"
-				{
-					"color" "ComfigGreen"
-					"offset" "2 0"
-				}
-			}
-		}
 		
 		DarkBorderThick
 		{
@@ -8707,7 +8630,6 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			"image"					"../hud/tournament_panel_brown"
-			//"image"				"../hud/color_panel_browner"
 			"src_corner_height"		"23"			// pixels inside the image
 			"src_corner_width"		"23"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional

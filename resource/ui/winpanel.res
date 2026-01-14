@@ -1,4 +1,4 @@
-"Resource/UI/winpanel.res"
+"resource/ui/winpanel.res"
 {
 	"TeamScoresPanel"
 	{
@@ -390,7 +390,7 @@
 	"TopPlayersLabel"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"TopPlayerLabel"
+		"fieldName"		"TopPlayersLabel"
 		"xpos"			"9999"
 	}
 	"PointsThisRoundLabel"

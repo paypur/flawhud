@@ -1,4 +1,4 @@
-"Resource/UI/econ/ConfirmCustomizeTextureDialog.res"
+"resource/ui/econ/confirmcustomizetexturedialog.res"
 {
 	"ConfirmCustomizeTextureDialog"
 	{
@@ -427,7 +427,7 @@
 		"FilterOptionsGroupBox"
 		{
 			"ControlName"		"EditablePanel"
-			"fieldName"			"SelectFilterGroupBox"
+			"fieldName"			"FilterOptionsGroupBox"
 			"Font"				"HudFontSmallestBold"
 			"xpos"				"0"
 			"ypos"				"25"
